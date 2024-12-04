@@ -1,2 +1,2 @@
 # A-well-designed-SignIn-form
-Javascript Sign-In Form 
+Javascript Sign-Up Form 
